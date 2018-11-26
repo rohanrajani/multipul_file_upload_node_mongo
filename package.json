@@ -1,0 +1,29 @@
+{
+  "name": "multipul_file_upload_node_mongo",
+  "version": "1.0.0",
+  "description": "Multi-pal file upload demo with nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanrajani/multipul_file_upload_node_mongo.git"
+  },
+  "author": "Rohan Rajani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanrajani/multipul_file_upload_node_mongo/issues"
+  },
+  "homepage": "https://github.com/rohanrajani/multipul_file_upload_node_mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8",
+    "multer": "^1.4.1",
+    "path": "^0.12.7"
+  }
+}

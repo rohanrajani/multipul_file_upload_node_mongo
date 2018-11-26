@@ -1,0 +1,5 @@
+{
+    "mongo":{
+        "mlib_url":"mongodb://rpr:demo123@ds263161.mlab.com:63161/upload_demo"
+    }
+}
